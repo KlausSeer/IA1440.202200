@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MouseTracker.cs" />
+    <Compile Include="Assets\Scripts\Steering.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
